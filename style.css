@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {  
+    color: white;
+    background-image: url(./image/netflix-background-image.jpg);
+}
+#form-container {
+    width: 1240px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#form-header {
+    text-align: center;
+}
+#form-title {
+    color: white;
+    font-size: 3.2rem;
+    font-family:"Bowlby One SC", cursive;
+    letter-spacing: 5px;
+}#flix-title {
+    color:red;
+}
+#form-description {
+    font-family: "Sorts Mill Goudy", serif;
+    /* font-size: 1.4rem; */
+    font-size: 23px;
+}
+#survey-form-container {
+    max-width: 500px;  
+    background-color: rgba(0, 0, 0, 0.8); 
+    margin: auto;  padding: 10px;
+}
+.input-box {
+    margin-top: 20px;
+    font-size: 30px;
+}
+.input-part,
+#dropdown { 
+     width: 100%;
+     padding: 10px;
+     margin-top: 5px;
+    }
+
+#form-button {
+    width: 160px;
+    height: 45px;
+    background-color: red;
+    color: white;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+}
+
+#form-submit {
+    margin: auto;
+    width: 160px;
+    /* text-align: center; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    color: white;
+    background-image: url(./image/netflix-background-image.jpg);
+}
+
+#form-container {
+    width: 1240px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgba(0,0,0,0.5);
+}
+
+#form-header {
+    text-align: center;
+}
+
+#form-title {
+    color:white;
+    font-size: 3.2rem;
+    font-family: "Bowlby One SC", cursive;
+    letter-spacing: 5px;
+}
+#flix-title {
+    color: red;
+}
+
+#from-description {
+    font-family: "Sorts Mill Goudy", sans-serif;
+    font-size: 1.4rem ;
+}
+
+#survey-form-container {
+    max-width: 500px;
+    background-color: rgba(0,0,0,0.8);
+    margin: auto;
+    padding: 10px;
+}
+
+.input-box {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+#name {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+.ipnput-part,
+#dropdown { */
+
+
+/* } */
